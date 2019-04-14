@@ -2,12 +2,12 @@ Emoncms is an open-source web application for processing, logging and visualisin
 temperature and other environmental data and is part of the [OpenEnergyMonitor project](
 http://openenergymonitor.org).
 
-#ServiceAPI module
+# ServiceAPI module
 Get access to user's data in an emonCMS installation by providing a master apikey (aka service_apikey)
 and the username or email address of the user.
 The service_apikey can be sent in the query string of the URL or as a POST field (recommended)
 
-##Example
+## Example
 The address to use would look like
 ```
 https://youremoncms.org/feed/list.json?service_apikey=the_key_in_your_settings&usernameaccess=a_user_name
@@ -17,7 +17,7 @@ https://youremoncms.org/feed/list.json?service_apikey=the_key_in_your_settings&e
 ## License
 This module is released under the GNU Affero General Public License
 
-##Installation
+## Installation
 In the modules directory of your emonCMS installation run
 ```
 git clone https://github.com/carboncoop/emonCMS_serviceapi serviceapi
