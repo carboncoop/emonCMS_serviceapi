@@ -18,6 +18,10 @@ https://youremoncms.org/feed/list.json?service_apikey=the_key_in_your_settings&e
 This module is released under the GNU Affero General Public License
 
 ##Installation
+In the modules directory of your emonCMS installation run
+```
+git clone https://github.com/carboncoop/emonCMS_serviceapi serviceapi
+```
 Generate a 32 bit apikey by running `openssl rand -hex 32`. 
 Copy the generated key into settings.php:
 ```
