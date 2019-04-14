@@ -6,6 +6,7 @@ http://openenergymonitor.org).
 Get access to user's data in an emonCMS installation by providing a master apikey (aka service_apikey)
 and the username or email address of the user.
 The service_apikey can be sent in the query string of the URL or as a POST field (recommended)
+Developed by [Carbon Co-op](https://carbon.coop/)
 
 ## Example
 The address to use would look like

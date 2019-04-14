@@ -8,6 +8,8 @@
   Emoncms - open source energy visualisation
   Part of the OpenEnergyMonitor project:
   http://openenergymonitor.org
+ 
+  Service API module developed by [Carbon Co-op](https://carbon.coop/)
 
  */
 
