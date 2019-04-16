@@ -11,8 +11,8 @@ Developed by [Carbon Co-op](https://carbon.coop/)
 ## Example
 The address to use would look like
 ```
-https://youremoncms.org/feed/list.json?service_apikey=the_key_in_your_settings&usernameaccess=a_user_name
-https://youremoncms.org/feed/list.json?service_apikey=the_key_in_your_settings&emailaccess=a_user_email
+https://youremoncms.org/serviceapi/feed/list.json?service_apikey=the_key_in_your_settings&usernameaccess=a_user_name
+https://youremoncms.org/serviceapi/feed/list.json?service_apikey=the_key_in_your_settings&emailaccess=a_user_email
 ```
 
 ## License
